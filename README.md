@@ -5,6 +5,6 @@ Here are some resources for me to keep track of:
 https://docs.expo.io/distribution/building-standalone-apps/
 https://reactnavigation.org/docs/getting-started/
 https://docs.expo.io/distribution/introduction/
-https://medium.com/@mahmudahsan/
 
+https://reactnative.dev/docs/tutorial
 Counter app tried, failed
